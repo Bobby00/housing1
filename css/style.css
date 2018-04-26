@@ -80,6 +80,10 @@ input[type="submit"],.w3l_header_left ul li a,.related-post-right h4 a,.comments
 	text-transform:uppercase;
 
 }
+.scroll-down {
+  width: 4%;
+  margin-top:13%;
+}
 /*--//pop--*/
 /*-- header --*/
 .top-main{
@@ -2006,8 +2010,12 @@ h3.follow {
 		font-size: 1em;
 		margin-top: 1em;
 	}
+  .scroll-down{
+    width: 9%;
+    margin-top: 40%;
+  }
 	.baner-info {
-		padding-top: 3em;
+		padding-top: 11em;
 	}
 	.rent-bottom h5 {
         font-size: 0.85em;
