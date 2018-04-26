@@ -2051,7 +2051,7 @@ h3.follow {
 		background: url(../images/logo.png) no-repeat 1px 0px;
 		height: 63px;
 		font-family: 'Lato', sans-serif;
-		background-size: 25%;
+		background-size: 100%;
 	}
 	.price {
 		padding: 2em 1em;
@@ -2144,7 +2144,7 @@ h3.follow {
 		background: url(../images/logo.png) no-repeat -1px 6px;
 		height: 63px;
 		font-family: 'Lato', sans-serif;
-		background-size: 23%;
+		background-size: 100%;
 	}
 	.cd-header-buttons {
 		position: absolute;
